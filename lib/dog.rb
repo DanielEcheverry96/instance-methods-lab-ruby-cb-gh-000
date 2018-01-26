@@ -1,6 +1,6 @@
 class Dog
 
-  def dark
+  def bark
     puts "Woof!"
   end
 
